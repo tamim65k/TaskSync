@@ -1,4 +1,4 @@
-# Task Offline First
+# TaskSync: Offline-First Task Manager
 
 A robust **Flutter** task management app with full **offline-first** support, backed by a **Node.js/Express** and **PostgreSQL** server.  
 Seamlessly manage your tasks, even without an internet connection—your data syncs automatically when you're back online.
